@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tutorial-modal/static/css/main.e7df52c4.css",
+    "main.js": "/tutorial-modal/static/js/main.ced0d5db.js",
+    "index.html": "/tutorial-modal/index.html",
+    "main.e7df52c4.css.map": "/tutorial-modal/static/css/main.e7df52c4.css.map",
+    "main.ced0d5db.js.map": "/tutorial-modal/static/js/main.ced0d5db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7df52c4.css",
+    "static/js/main.ced0d5db.js"
+  ]
+}
